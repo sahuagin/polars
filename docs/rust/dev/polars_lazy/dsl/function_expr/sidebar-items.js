@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["BooleanFunction","CategoricalFunction","FunctionExpr","PowFunction"],"mod":["cat","pow","rolling","trigonometry"]};
